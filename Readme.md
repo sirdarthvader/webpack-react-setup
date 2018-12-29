@@ -1,6 +1,5 @@
 ## Available Scripts
 
-## Install Dependency
 ### `npm install`
 
 In the project directory, you can run:
