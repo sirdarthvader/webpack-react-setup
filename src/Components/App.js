@@ -4,7 +4,7 @@ class App extends Component {
   render() {
     return (
       <div>
-        <h1>Webpack + React setup</h1>
+        <h1>Webpack + React setup!!</h1>
       </div>
     )
   }
