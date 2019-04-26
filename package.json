@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/ashishcodes4/webpack-react-setup#readme",
   "dependencies": {
+    "babel-loader": "^8.0.5",
     "react": "^16.7.0",
     "react-dom": "^16.7.0"
   },
