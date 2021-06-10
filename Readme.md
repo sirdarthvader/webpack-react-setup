@@ -4,7 +4,7 @@
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-This project is a complete React project, built without using our favourite Create-React-App CLI. All the files and folder have been manually setup to understand under the hood behaviour of webpack.
+This project is a complete React project, built without using our favourite Create-React-App CLI. All the files and folder have been manually setup to understand under the hood behaviour of webpack. All the webpack related information has also been explained in this [blog](https://www.freecodecamp.org/news/an-intro-to-webpack-what-it-is-and-how-to-use-it-8304ecdc3c60/), check it out!
 
 To use this project, follow the below mentioned simple steps.
 
